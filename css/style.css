@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@200&display=swap');
+*{
+    font-family: 'Spartan', sans-serif;
+}
+
+.titulo{
+    font-weight: bolder;
+    text-align: center;
+}
